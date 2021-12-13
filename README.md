@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithprohos&langs_count=10&theme=tokyonight&layout=compact&count_private=true" alt="Rithprohos :: Top Langs" /></p>
-
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rithprohos&show_icons=true&theme=tokyonight&count_private=true" alt="Rithprohos :: Profile Stats" /></p>
